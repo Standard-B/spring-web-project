@@ -1,0 +1,42 @@
+# Eclipse metadata
+.metadata/
+
+# Eclipse project files
+.project
+.settings/
+
+# Eclipse Servers configuration
+Servers/
+
+# Compiled files
+bin/
+target/
+
+# Temporary files
+*.log
+*.tmp
+
+# IDE-specific files
+.vscode/
+.idea/
+
+# Package files
+*.jar
+*.war
+*.ear
+
+# Compiled Java classes
+*.class
+
+# System-specific files
+.DS_Store
+Thumbs.db
+
+# Log files
+*.log
+
+# Eclipse workspace state files
+workspaceState.ser
+
+# Temporary files created by Spring Boot DevTools
+restart.*
